@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPing", "WpfPing\WpfPing.csproj", "{51372325-B197-4F1B-8EEB-7C7F7022366E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51372325-B197-4F1B-8EEB-7C7F7022366E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51372325-B197-4F1B-8EEB-7C7F7022366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51372325-B197-4F1B-8EEB-7C7F7022366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51372325-B197-4F1B-8EEB-7C7F7022366E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B5F656-795B-4B11-8E0D-32D1CFD74372}
+	EndGlobalSection
+EndGlobal
